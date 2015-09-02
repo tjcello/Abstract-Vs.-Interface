@@ -9,13 +9,6 @@ package greenbaypackers;
  *
  * @author Thomas
  */
-public class GreenBayPackers implements NFL {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
+public class Player extends GreenBayPackers {
     
 }
