@@ -9,6 +9,6 @@ package greenbaypackers;
  *
  * @author Thomas
  */
-public class Player extends GreenBayPackers {
+public class Player extends Packers {
     
 }
