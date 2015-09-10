@@ -10,4 +10,5 @@ package greenbaypackers;
  * @author Thomas
  */
 public interface NFL {
+    
 }

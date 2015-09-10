@@ -9,8 +9,9 @@ package greenbaypackers;
  *
  * @author Thomas
  */
-public class Packers implements NFL {
-
+public abstract class Packers implements NFL {
+    private boolean contract;
+    
     
     
 }
