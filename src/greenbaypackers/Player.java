@@ -10,26 +10,28 @@ package greenbaypackers;
  * @author Thomas
  */
 public class Player extends Packers {
-    private String Scores;
-    private int Receives;
+    private int Scores;
+    private boolean Receives;
     private int Runs;
     
 
-    public String getScores() {
+    public int getScores() {
         return Scores;
     }
 
-    public void setScores(String Scores) {
+    public void setScores(int Scores) {
         this.Scores = Scores;
         
     }
 
-    public int getReceives() {
+    public boolean getReceives() {
         return Receives;
     }
 
-    public void setReceives(int Receives) {
+    public void setReceives(boolean Receives) {
         this.Receives = Receives;
+        
+        
     }
 
     public int getRuns() {
